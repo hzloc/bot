@@ -1,1 +1,1 @@
-web: python qoroskop.py
+bot: python qoroskop.py
